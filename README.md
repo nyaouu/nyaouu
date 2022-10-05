@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-<!--
-name = "nao"
--->
+def Info():
+  name = "nao"
