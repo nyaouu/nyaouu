@@ -2,7 +2,7 @@
 
 ```python
 name = "nao"
-age = 13
+age = 14
 gender = "idk :)"
 single = True
 languages = ["python", "javascript", "lua"]
