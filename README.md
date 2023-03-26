@@ -5,6 +5,6 @@ name = "nao"
 age = 14
 gender = "idk :)"
 single = True
-languages = ["python", "javascript", "lua", "golang"]
+languages = ["python"]
 
 ```
